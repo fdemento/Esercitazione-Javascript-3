@@ -3,7 +3,7 @@
 > Questo ReadME riporta il contenuto dell'esercitazione scaricabile dal file index.js
 
 ### **Esercizio 1:**
-**Scrivi un algoritmo per trovare il piÃ¹ grande tra due numeri interi.**
+**Scrivi un algoritmo per trovare il più grande tra due numeri interi.**
 
 ```JavaScript
 let n1 = 11
@@ -133,7 +133,7 @@ console.log(gender)
 ```
 
 ### **Esercizio EXTRA 5:**
-**Scrivi un algoritmo che iteri i numeri da 1 a 100, stampandoli in console. Se un valore tuttavia Ã¨ multiplo di 3 (operatore modulo!), stampa al suo posto la parola "Fizz" e se il numero Ã¨ multiplo di 5, stampa "Buzz". Se le condizioni si verificano entrambe, stampa "FizzBuzz"**
+**Scrivi un algoritmo che iteri i numeri da 1 a 100, stampandoli in console. Se un valore tuttavia è multiplo di 3 (operatore modulo!), stampa al suo posto la parola "Fizz" e se il numero è multiplo di 5, stampa "Buzz". Se le condizioni si verificano entrambe, stampa "FizzBuzz"**
 
 ```Javascript
 for (i = 0; i <= 100; i++) {
