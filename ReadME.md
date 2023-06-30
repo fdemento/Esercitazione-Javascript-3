@@ -20,8 +20,12 @@ console.log(result)
 ```
 
 ### **Esercizio 2:**
-**Crea un blocco condizionale if/else per mostrare in console il messaggio corretto in ogni condizione.**
-
+**Crea un blocco condizionale if else per mostrare in console il messaggio corretto in ogni condizioni:**
+**num < 5 - mostra in console "Tiny"**
+**num < 10 - mostra in console "Small"**
+**num < 15 - mostra in console "Medium"**
+**num < 20 - mostra in console "Large"**
+**num >= 20 - mostra in console "Huge"**
 
 ```JavaScript
 for (let i=0; i<=20; i++) {
