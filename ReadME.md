@@ -1,4 +1,4 @@
-# Esercitazione del 23/06/2023
+# Esercitazione del 27/06/2023
 
 > Questo ReadME riporta il contenuto dell'esercitazione scaricabile dal file index.js
 
